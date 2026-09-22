@@ -17,9 +17,9 @@ export function Industries() {
           <SectionTitle
             number="05"
             badge="Vertical Expertise"
-            title="Tailored Across 9+ Specialized Industries"
+            title="Tailored Across 8 High-Value Service Industries"
             accentText="Industries"
-            subtitle="Different sectors require vastly different marketing mechanics. From e-commerce purchase loops to high-ticket consulting lead pipelines."
+            subtitle="Different sectors require vastly different marketing mechanics. From emergency home services to high-intent medical and legal intake pipelines."
           />
 
           {/* View toggle */}

@@ -32,7 +32,7 @@ export default function Home() {
       {/* 6. Portfolio Showcase with Interactive Live Demos */}
       <WorkShowcase />
 
-      {/* 7. 9+ Industries Matrix & Cards */}
+      {/* 7. 8+ Industries Matrix & Cards */}
       <Industries />
 
       {/* 8. Transparent Pricing & Investment Packages */}

@@ -124,7 +124,7 @@ export function AboutPreview() {
               </div>
               <div>
                 <div className="text-3xl sm:text-4xl font-black font-heading text-[#111111]">
-                  9+
+                  8+
                 </div>
                 <div className="text-xs text-[#666666] font-medium mt-0.5">
                   Industries Covered
