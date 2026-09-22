@@ -21,7 +21,7 @@ export function AboutPreview() {
                 {/* Top Badge Row */}
                 <div className="flex items-center justify-between w-full z-20">
                   <span className="text-[11px] font-mono font-bold bg-[#0B0D0E] text-white px-3 py-1 rounded-full flex items-center gap-1 shadow-xs">
-                    <ShieldCheck className="w-3.5 h-3.5 text-[#B7F34A]" /> Banglalink ESO
+                    <ShieldCheck className="w-3.5 h-3.5 text-[#B7F34A]" /> Media Tech Lab
                   </span>
                   <span className="text-[11px] font-semibold bg-white text-[#111111] px-2.5 py-1 rounded-full shadow-2xs border border-black/10">
                     Growth Specialist
@@ -33,7 +33,7 @@ export function AboutPreview() {
                   <div className="relative w-[280px] h-[320px] sm:w-[310px] sm:h-[350px]">
                     <Image
                       src="/asif-mahmud.png"
-                      alt="Asif Mahmud - Digital Marketer & Enterprise Sales Officer"
+                      alt="Asif Mahmud - Digital Marketer & Performance Ads Specialist"
                       fill
                       sizes="(max-width: 768px) 280px, 310px"
                       className="object-cover object-top rounded-2xl drop-shadow-lg"

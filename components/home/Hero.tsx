@@ -142,7 +142,7 @@ export function Hero() {
                 <div className="absolute bottom-3 left-1/2 -translate-x-1/2 z-20 whitespace-nowrap">
                   <span className="text-xs font-bold text-[#0B0D0E] uppercase tracking-wider bg-white/95 backdrop-blur-md px-4 py-1.5 rounded-full shadow-lg border border-black/10 flex items-center gap-1.5">
                     <span className="w-2 h-2 rounded-full bg-[#709819] animate-pulse" />
-                    Enterprise Sales Officer · Banglalink
+                    GOOGLE ADS · META ADS · CONVERSION TRACKING
                   </span>
                 </div>
               </div>
@@ -186,7 +186,7 @@ export function Hero() {
                 Hands-On Marketing Experience
               </div>
               <p className="text-xs text-[#777777] mt-2 leading-relaxed">
-                Proven track record across leading telecom (Banglalink), retail e-commerce (China Jewellery), and agency campaigns.
+                Proven track record across US-based CPA firms (Arman Chowdhury, CPA), tech agencies (Huipper), and digital marketing studios (Media Tech Lab).
               </p>
             </div>
 
