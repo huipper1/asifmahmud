@@ -6,7 +6,7 @@ import { Container } from "@/components/ui/Container";
 import { SectionTitle } from "@/components/ui/SectionTitle";
 import { Button } from "@/components/ui/Button";
 import { WHATSAPP_URL } from "@/lib/constants";
-import { Check, ShieldCheck, Target, Zap } from "lucide-react";
+import { Check, ShieldCheck, Zap } from "lucide-react";
 
 export function AboutPreview() {
   return (

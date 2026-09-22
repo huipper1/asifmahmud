@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { Calendar, Share2, Sparkles, MessageCircle, Heart, ArrowDown, CheckCircle } from "lucide-react";
+import { Calendar, Share2, Sparkles, ArrowDown } from "lucide-react";
 
 interface ContentPillar {
   day: string;

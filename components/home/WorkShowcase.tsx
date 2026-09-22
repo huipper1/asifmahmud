@@ -8,7 +8,7 @@ import { MetaDashboard } from "@/components/demos/MetaDashboard";
 import { GoogleSearchDemo } from "@/components/demos/GoogleSearchDemo";
 import { AnalyticsDashboard } from "@/components/demos/AnalyticsDashboard";
 import { ConversionFunnel } from "@/components/demos/ConversionFunnel";
-import { ArrowUpRight, Check, Eye, EyeOff, Layers, Sparkles } from "lucide-react";
+import { Eye, EyeOff } from "lucide-react";
 
 export function WorkShowcase() {
   const [selectedCategory, setSelectedCategory] = useState<string>("All");

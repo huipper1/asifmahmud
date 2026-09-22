@@ -1,8 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { Badge } from "@/components/ui/Badge";
-import { BarChart3, TrendingUp, DollarSign, Filter, RefreshCw, Layers } from "lucide-react";
+import { TrendingUp, Filter, RefreshCw, Layers } from "lucide-react";
 
 interface CampaignItem {
   id: string;

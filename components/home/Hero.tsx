@@ -5,7 +5,7 @@ import Image from "next/image";
 import { Container } from "@/components/ui/Container";
 import { Button } from "@/components/ui/Button";
 import { WHATSAPP_URL } from "@/lib/constants";
-import { ArrowUpRight, TrendingUp, Sparkles, CheckCircle, ShieldCheck, Target } from "lucide-react";
+import { TrendingUp, Sparkles, CheckCircle, ShieldCheck, Target } from "lucide-react";
 import { registerGSAP } from "@/lib/animations";
 
 export function Hero() {

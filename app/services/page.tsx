@@ -3,7 +3,6 @@ import type { Metadata } from "next";
 import { Container } from "@/components/ui/Container";
 import { SectionTitle } from "@/components/ui/SectionTitle";
 import { Button } from "@/components/ui/Button";
-import { services } from "@/data/services";
 import { MetaDashboard } from "@/components/demos/MetaDashboard";
 import { GoogleSearchDemo } from "@/components/demos/GoogleSearchDemo";
 import { AnalyticsDashboard } from "@/components/demos/AnalyticsDashboard";
@@ -12,7 +11,7 @@ import { Industries } from "@/components/home/Industries";
 import { Pricing } from "@/components/home/Pricing";
 import { ContactCTA } from "@/components/home/ContactCTA";
 import { WHATSAPP_URL } from "@/lib/constants";
-import { ArrowUpRight, CheckCircle2, Layers, Sparkles, Target, Zap } from "lucide-react";
+import { CheckCircle2, Sparkles } from "lucide-react";
 
 export const metadata: Metadata = {
   title: "Services & Capabilities | Asif Mahmud - Performance Marketing",

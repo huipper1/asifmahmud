@@ -2,7 +2,7 @@ import React from "react";
 import Link from "next/link";
 import { Container } from "@/components/ui/Container";
 import { Button } from "@/components/ui/Button";
-import { NAV_LINKS, WHATSAPP_URL, EMAIL_URL, EMAIL, WHATSAPP_NUMBER } from "@/lib/constants";
+import { NAV_LINKS, WHATSAPP_URL, EMAIL_URL, EMAIL } from "@/lib/constants";
 import { ArrowUpRight, MessageSquare, Mail } from "lucide-react";
 
 export function Footer() {

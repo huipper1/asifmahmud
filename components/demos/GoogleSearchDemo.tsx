@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useState } from "react";
-import { Search, ExternalLink, CheckCircle2, ChevronRight, Target, ArrowRight } from "lucide-react";
+import { Search, CheckCircle2, ChevronRight, Target } from "lucide-react";
 
 interface SearchScenario {
   id: string;

@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import { Container } from "@/components/ui/Container";
 import { SectionTitle } from "@/components/ui/SectionTitle";
 import { industries } from "@/data/industries";
-import { Check, Layers, Table } from "lucide-react";
+import { Layers, Table } from "lucide-react";
 
 export function Industries() {
   const [viewMode, setViewMode] = useState<"cards" | "matrix">("cards");

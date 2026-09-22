@@ -2,7 +2,6 @@
 
 import React, { useState } from "react";
 import { Container } from "@/components/ui/Container";
-import { Button } from "@/components/ui/Button";
 import { EMAIL, WHATSAPP_NUMBER } from "@/lib/constants";
 import {
   MessageSquare,
@@ -12,7 +11,6 @@ import {
   Clock,
   Zap,
   CheckCircle2,
-  Send,
   Building,
   DollarSign,
   Globe,
